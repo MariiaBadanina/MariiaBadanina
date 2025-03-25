@@ -1,6 +1,6 @@
-## About me ✍️
-
 ![banner](./banner.png)
+
+## About me ✍️
 
 Hi, I’m Mariia (Masha) — a frontend developer currently based in the USA.
 
