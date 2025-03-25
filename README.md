@@ -10,4 +10,4 @@ I have a background in graphic design, which explains my obsession with dopamine
 
 ## Connect with me in LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariiabadanina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariiabadanina/)
