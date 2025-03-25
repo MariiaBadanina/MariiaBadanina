@@ -1,7 +1,6 @@
 ![banner](./banner.png)
 
-## About me ✍️
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E7CDC0&width=435&lines=About+Me+About+Me+About+Me+About+Me)](https://git.io/typing-svg)
 Hi, I’m Mariia (Masha) — a frontend developer currently based in the USA.
 
 I’m mostly self-taught; even though I’m a bootcamp graduate, the majority of what I know, I’ve learned on my own.
