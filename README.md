@@ -12,4 +12,4 @@ I have a background in graphic design, which explains my obsession with dopamine
 
 **Connect with me in LinkedIn**
 
-[![LinkedIn](./linkedin_button.png)](https://linkedin.com/in/mariiabadanina/)
+[<img src="./linkedin_button.png" alt="LinkedIn" width="150">](https://linkedin.com/in/mariiabadanina/)
